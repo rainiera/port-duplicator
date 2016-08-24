@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "udp_port": 8081,
+    "tcp_start_port": 8082,
+    "num_ports": 3,
+    "log_directory": "logs"
+}
